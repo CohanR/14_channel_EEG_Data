@@ -38,7 +38,6 @@ for annotation in annotations:
 for channel_name in eeg_channels:
     data, times = raw[channel_name, :int(raw.info['sfreq']*436)]
     ...
-
    This loop visualizes the EEG data for each specified channel. Each channel's data is plotted over time, providing a clear visual representation of the EEG signals.
 
 8. **Marker Channel Data**:
