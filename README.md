@@ -47,9 +47,9 @@ for channel_name in eeg_channels:
 ### Conclusion:
 This code offers a comprehensive overview of EEG data by loading, processing, and visualizing its contents. It uses the MNE library to handle the data effectively and produces valuable insights about the recorded EEG signals and their characteristics.
 
-![output 1](Screenshot 2023-09-01 at 12.41.26 AM.png)
-![output 2](Screenshot 2023-09-01 at 12.41.55 AM.png)
-![output 3](Screenshot 2023-09-01 at 12.42.13 AM.png)
-![output 4](Screenshot 2023-09-01 at 12.42.22 AM.png)
+![output 1](output1.png)
+![output 2](output2.png)
+![output 3](output3.png)
+![output 4](output4.png)
 
 Remy Cohan, 2023
