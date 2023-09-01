@@ -43,12 +43,11 @@ for channel_name in eeg_channels:
 8. **Marker Channel Data**:
    The script extracts data from the `MARKER` channel, identifies non-zero values, and prints the times at which these non-zero markers appear. This could be used to indicate specific events or stimuli during the recording.
 
-### Conclusion:
-This code offers a comprehensive overview of EEG data by loading, processing, and visualizing its contents. It uses the MNE library to handle the data effectively and produces valuable insights about the recorded EEG signals and their characteristics.
+
 
 ![output 1](output4.png)
-![output 2](output2.png)
-![output 3](output3.png)
+![output 2](output3.png)
+![output 3](output2.png)
 ![output 4](output1.png)
 
 Remy Cohan, 2023
